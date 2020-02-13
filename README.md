@@ -4,6 +4,6 @@ This is an [app](http://leaflet-vector-tile-development.s3-website-us-east-1.ama
 
 It uses the plugin [Leaflet.VectorGrid](https://www.npmjs.com/package/leaflet.vectorgrid) (see in [github](https://github.com/Leaflet/Leaflet.VectorGrid)).
 
-More information about Vector Tiles in City of Philadelphia developement is available [here](https://github.com/CityOfPhiladelphia/phila-vue-mapping/wiki/VectorTiles).
+More information about Vector Tiles in City of Philadelphia development is available [here](https://github.com/CityOfPhiladelphia/phila-vue-mapping/wiki/VectorTiles).
 
 ![](https://mapboard-images.s3.amazonaws.com/phila-vue-mapping/VectorTiles/vector-tiles.JPG)
